@@ -2,10 +2,10 @@
 
 #define CANDIDATE_COUNT
 
-#define CANDIDATE1 "David Hull"
-#define CANDIDATE2 "Kristin Canella"
-#define CANDIDATE3 "Jim Brar"
-#define CANDIDATE4 "Donald Truimph"
+#define CANDIDATE1 "Jeffry hawchab"
+#define CANDIDATE2 "Christian Khalil"
+#define CANDIDATE3 "Elias Zgheib"
+#define CANDIDATE4 "Nadine Khoury"
 
 int votesCount1=0, votesCount2=0, votesCount3=0, votesCount4=0, spoiledtvotes=0;
 
